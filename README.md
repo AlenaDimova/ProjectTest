@@ -10,7 +10,7 @@
 https://docs.google.com/spreadsheets/d/1-OhPIOVxmvybI5DGzcIHqCfNxbpGjS80g9LMoMlTuOY/edit?usp=sharing
 # API test
 Используется библиотека Rest Assured.
-Для тестирования выбран api http://shop.bugred.ru/. Документация https://testbase.atlassian.net/wiki/spaces/SHOP/overview?homepageId=1411056054.
+Для тестирования выбран api https://petstore.swagger.io/#/. Документация https://petstore.swagger.io/#/.
 ## Сборка
 ```mvn clean test```
 ## Генерация отчета
